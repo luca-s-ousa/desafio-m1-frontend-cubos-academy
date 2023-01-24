@@ -1,0 +1,43 @@
+.container__site__completo{
+    width: 100%;
+    height: 2750px;
+}
+
+.section__portifolio__text_area{
+    width: 50%;
+    padding: 103px 0px 103px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-top: 1px solid rgba(51, 50, 61, 0.15);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+}
+
+.section__portifolio__text_area p{
+    width: 350px;
+    line-height: 30px;
+}
+
+.section__manage, .section__bookmark, .section__insure, .section__fylo{
+    display: flex;
+}
+
+.section__manage img, .section__bookmark img, .section__insure img, .section__fylo img{
+    width: 50%;
+    height: 100%;
+}
+
+/* modificadores */
+.tamanho--1015px--500px{
+    width: 1015px;
+    height: 500px;
+    
+}
+
+.margin--left--125px{
+    margin-left: 125px;
+}
+
+.margin--right--125px{
+    margin-right: 125px;
+}
